@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1029" height="142" viewBox="0 0 1029 142">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e30b13;
+      }
+
+      .cls-2 {
+        font-size: 150px;
+        fill: #fff;
+        text-anchor: middle;
+        font-family: Roboto;
+        font-weight: 800;
+        font-variant: small-caps;
+      }
+
+      .cls-3 {
+        fill: #fffefe;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <rect id="Прямоугольник_1" data-name="Прямоугольник 1" class="cls-1" x="375" y="33" width="242" height="202"/>
+  <text id="HETSOFLIX_KZ" data-name="HETSOFLIX  KZ" class="cls-2" transform="matrix(0.855, 0, 0, 0.855, 576.666, 107.48)"><tspan x="0">HETSOFLIX  KZ</tspan></text>
+  <ellipse id="Эллипс_1" data-name="Эллипс 1" class="cls-1" cx="88" cy="74.5" rx="70" ry="67.5"/>
+  <path id="Эллипс_2" data-name="Эллипс 2" class="cls-3" d="M70.28,15.722c13.9-3.051,9.237,10.29-8.6,23.867-8.641,6.577-15.991,10-20.226,11.393-4.3,1.453-9.426,2-9.932-2.2C30.594,39.709,54.277,19.246,70.28,15.722Z"/>
+  <circle id="Эллипс_3" data-name="Эллипс 3" class="cls-1" cx="809.5" cy="108.5" r="15.5"/>
+</svg>
